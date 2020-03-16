@@ -16,10 +16,10 @@ class ShellzGen():
         self.hosts = ["10.X.1.10", "10.X.2.10", "10.X.2.20", "10.X.2.30",
                       "10.X.3.30", "10.X.3.40", "10.X.3.50"]
 
-        self.host_names = {"1.10" : "parrot-acidburn", "2.10" : "fedora-pwnsauce",
-                           "2.20" : "debian10-viral", "2.30" : "ubuntu1804-anarachos",
-                           "3.30" : "centos7-kayla", "3.40" : "debian9-avunit",
-                           "3.50" : "centos7-tflow"}
+        self.host_names = {"1.10" : "parrot-hostname-1", "2.10" : "fedora-hostname-2",
+                           "2.20" : "debian10-hostnam-5", "2.30" : "ubuntu1804-hostname-4",
+                           "3.30" : "centos7-hostname-6", "3.40" : "debian9-hostname-7",
+                           "3.50" : "centos7-hostname-8"}
 
         self.template = """
                 { 
