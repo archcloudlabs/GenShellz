@@ -4,7 +4,7 @@ ShellzGen quickly creates [shellz](https://github.com/evilsocket/shellz) shells.
 ### How to Use
 0. Modify ```self.hosts``` for the appropriate competition subnets. 
 
-Execute wiith the following arguments:
+1. Execute wiith the following arguments:
 
 ```
 ./shellzgen.py -i ssh_primary_ident -o /tmp/ -g redteam
@@ -15,4 +15,4 @@ Execute wiith the following arguments:
 
 ### Use Cases
 * Red vs Blue competitions
-* Mass ssh command execution against hosts.
+* Mass ssh command execution against hosts without the overhead Ansible.
