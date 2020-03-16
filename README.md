@@ -1,5 +1,5 @@
 ### ShellzGen
-ShellzGen quickly creates [shellz]() shells.
+ShellzGen quickly creates [shellz](https://github.com/evilsocket/shellz) shells.
 
 ### How to Use
 0. Modify ```self.hosts``` for the appropriate competition subnets. 
